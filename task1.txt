@@ -1,0 +1,8 @@
+what is the difference between div and section in the html :-
+
+In summary, while both <div> and <section> can be used for layout purposes, <section> is more specific and semantic, representing a thematic grouping of content, whereas <div> is a more generic container. The choice between them depends on the intended meaning and structure of the content in your HTML document.
+
+what is the difference between article and p in the html
+
+
+In summary, <article> is used for encapsulating independent and complete pieces of content, often with its own heading, while <p> is used specifically for defining paragraphs of text within the content of a document. The choice between them depends on the nature of the content you are marking up.
